@@ -1,0 +1,21 @@
+body {
+    animation-name: yeet;
+animation-duration: 30s;
+}
+@keyframes yeet {
+    0%{
+        background-color: blue;
+    }
+    100% {
+        background-color: green;
+    } 
+}
+
+p {
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+h1 {
+    text-align: center;
+}
